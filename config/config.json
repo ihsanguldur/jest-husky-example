@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "super",
+    "password": "1234567",
+    "database": "todos",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "super",
+    "password": "1234567",
+    "database": "todos",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
